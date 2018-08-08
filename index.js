@@ -15,5 +15,6 @@ discountTicket(100)
 function tweetReply(){
   
 }
+returns a string phrase that includes a the passed in argument
 
 
