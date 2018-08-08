@@ -13,9 +13,9 @@ function discountTicket(originalAmount){
 discountTicket(100)
 
 function tweetReply(phrase){
-  return phrase;
+  return `${phrase}`;
 }
 
-tweetReply("hello")
+tweetReply("Bruno Mars'")
 
 
