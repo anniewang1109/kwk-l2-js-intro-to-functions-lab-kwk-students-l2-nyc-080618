@@ -2,7 +2,7 @@
 
 function getUKTime(){
   new Date().getHours();
-};
+}
 
 getUKTime()
 
