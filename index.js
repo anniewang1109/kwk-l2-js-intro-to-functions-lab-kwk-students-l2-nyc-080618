@@ -12,4 +12,6 @@ function discountTicket(originalAmount){
 
 discountTicket(100)
 
+function 
+
 
