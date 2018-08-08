@@ -10,6 +10,6 @@ function discountTicket(originalAmount){
   return originalAmount * .8;
 }
 
-discountTicket()
+discountTicket(100)
 
 
