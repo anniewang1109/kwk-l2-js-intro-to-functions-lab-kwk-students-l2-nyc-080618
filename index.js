@@ -13,7 +13,7 @@ function discountTicket(originalAmount){
 discountTicket(100)
 
 function tweetReply(phrase){
-  return `Hey ${phrase} `;
+  return `Hey ${phrase}, thanks so much for the support! I really appreciate it!`;
 }
 
 tweetReply("Bruno Mars'")
