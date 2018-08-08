@@ -1,5 +1,9 @@
 // Write your code in this file!
 
-new Date().getHours()
+function getUKTime(){
+  new Date().getHours() + 5;
+};
+
+getUKTime()
 
 
