@@ -1,7 +1,8 @@
 // Write your code in this file!
 
 function getUKTime(){
-  new Date().getHours();
+  var hour = new Date().getHours();
+  console.log(hour);
 }
 
 getUKTime()
