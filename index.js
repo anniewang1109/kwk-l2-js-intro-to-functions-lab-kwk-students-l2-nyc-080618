@@ -6,10 +6,10 @@ function getUKTime(){
 
 getUKTime()
 
-function discountTicket(origianlAmount){
-  
+function discountTicket(originalAmount){
+  return originalAmount * .8;
 }
 
-returns a value that is 80% of the original argument value
+discountTicket()
 
 
