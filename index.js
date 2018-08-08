@@ -12,9 +12,10 @@ function discountTicket(originalAmount){
 
 discountTicket(100)
 
-function tweetReply(){
-  
+function tweetReply(phrase){
+  return phrase;
 }
-returns a string phrase that includes a the passed in argument
+
+tweetReply("hello")
 
 
